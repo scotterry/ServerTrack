@@ -1,0 +1,5 @@
+C:\Users\smter_000\Documents\Visual Studio 2013\Projects\ServerTrack\ServerTrackClient\bin\Debug\ServerTrackClient.exe.config
+C:\Users\smter_000\Documents\Visual Studio 2013\Projects\ServerTrack\ServerTrackClient\bin\Debug\ServerTrackClient.exe
+C:\Users\smter_000\Documents\Visual Studio 2013\Projects\ServerTrack\ServerTrackClient\bin\Debug\ServerTrackClient.pdb
+C:\Users\smter_000\Documents\Visual Studio 2013\Projects\ServerTrack\ServerTrackClient\obj\Debug\ServerTrackClient.exe
+C:\Users\smter_000\Documents\Visual Studio 2013\Projects\ServerTrack\ServerTrackClient\obj\Debug\ServerTrackClient.pdb

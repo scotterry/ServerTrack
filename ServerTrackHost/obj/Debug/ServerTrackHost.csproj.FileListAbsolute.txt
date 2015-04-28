@@ -1,0 +1,8 @@
+C:\Users\smter_000\Documents\Visual Studio 2013\Projects\ServerTrack\ServerTrackHost\bin\Debug\ServerTrackHost.exe
+C:\Users\smter_000\Documents\Visual Studio 2013\Projects\ServerTrack\ServerTrackHost\bin\Debug\ServerTrack.dll
+C:\Users\smter_000\Documents\Visual Studio 2013\Projects\ServerTrack\ServerTrackHost\bin\Debug\ServerTrackHost.exe.config
+C:\Users\smter_000\Documents\Visual Studio 2013\Projects\ServerTrack\ServerTrackHost\bin\Debug\ServerTrackHost.pdb
+C:\Users\smter_000\Documents\Visual Studio 2013\Projects\ServerTrack\ServerTrackHost\bin\Debug\ServerTrack.pdb
+C:\Users\smter_000\Documents\Visual Studio 2013\Projects\ServerTrack\ServerTrackHost\obj\Debug\ServerTrackHost.csprojResolveAssemblyReference.cache
+C:\Users\smter_000\Documents\Visual Studio 2013\Projects\ServerTrack\ServerTrackHost\obj\Debug\ServerTrackHost.exe
+C:\Users\smter_000\Documents\Visual Studio 2013\Projects\ServerTrack\ServerTrackHost\obj\Debug\ServerTrackHost.pdb

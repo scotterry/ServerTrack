@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="41730421-2b43-4ba7-9786-dd4533bd291f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/SelfHostedServiceConsole" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="SelfHostedServiceConsole.xsd" MetadataType="Schema" ID="574476ff-b6c6-41f6-8600-9ee1391ae86e" SourceId="1" SourceUrl="http://localhost/SelfHostedServiceConsole?xsd=xsd0" />
+    <MetadataFile FileName="SelfHostedServiceConsole1.xsd" MetadataType="Schema" ID="bcaaaee2-a390-4a99-b4fa-99361f42cf84" SourceId="1" SourceUrl="http://localhost/SelfHostedServiceConsole?xsd=xsd2" />
+    <MetadataFile FileName="SelfHostedServiceConsole.disco" MetadataType="Disco" ID="d415df09-7dab-4865-95fb-960375d09e02" SourceId="1" SourceUrl="http://localhost/SelfHostedServiceConsole?disco" />
+    <MetadataFile FileName="SelfHostedServiceConsole2.xsd" MetadataType="Schema" ID="e32f649a-f854-4e18-93f6-d0181e06f759" SourceId="1" SourceUrl="http://localhost/SelfHostedServiceConsole?xsd=xsd3" />
+    <MetadataFile FileName="ServerTrackService.wsdl" MetadataType="Wsdl" ID="ab7ada77-d2cb-4042-941d-2b207a006525" SourceId="1" SourceUrl="http://localhost/SelfHostedServiceConsole?wsdl" />
+    <MetadataFile FileName="SelfHostedServiceConsole3.xsd" MetadataType="Schema" ID="eaf53969-3ddf-4f21-954c-744109f62984" SourceId="1" SourceUrl="http://localhost/SelfHostedServiceConsole?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

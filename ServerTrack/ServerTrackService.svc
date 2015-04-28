@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ServerTrack.ServerTrackService" CodeBehind="ServerTrackService.svc.cs" %>

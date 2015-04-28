@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost/SelfHostedServiceConsole?xsd=xsd2" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <xs:element name="RecordServerLoad">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="serverName" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CPULoad" type="xs:double" />
+        <xs:element minOccurs="0" name="RAMLoad" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="RecordServerLoadResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DisplayServerLoad">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="serverName" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DisplayServerLoadResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="DisplayServerLoadResult" nillable="true" type="q1:ArrayOfKeyValueOfstringArrayOfKeyValueOfdateTimeLoadTupleocfyMuyqty7Ep6D1" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

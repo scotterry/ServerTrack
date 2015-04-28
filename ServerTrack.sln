@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerTrack", "ServerTrack\ServerTrack.csproj", "{4A6F9C48-A8E9-4A90-B0A9-C3E545202B4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerTrackHost", "ServerTrackHost\ServerTrackHost.csproj", "{F4E60782-F21A-4063-A7C5-2807A4E0281A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerTrackClient", "ServerTrackClient\ServerTrackClient.csproj", "{70B5E056-ED77-4E62-A503-9E9DD0C35B1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A6F9C48-A8E9-4A90-B0A9-C3E545202B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A6F9C48-A8E9-4A90-B0A9-C3E545202B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A6F9C48-A8E9-4A90-B0A9-C3E545202B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A6F9C48-A8E9-4A90-B0A9-C3E545202B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4E60782-F21A-4063-A7C5-2807A4E0281A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E60782-F21A-4063-A7C5-2807A4E0281A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E60782-F21A-4063-A7C5-2807A4E0281A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E60782-F21A-4063-A7C5-2807A4E0281A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70B5E056-ED77-4E62-A503-9E9DD0C35B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B5E056-ED77-4E62-A503-9E9DD0C35B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B5E056-ED77-4E62-A503-9E9DD0C35B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B5E056-ED77-4E62-A503-9E9DD0C35B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
